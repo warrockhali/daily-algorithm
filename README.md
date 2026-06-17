@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/warrockhali/daily-algorithm/tree/main/0001-two-sum/) | Easy |
 | [0409-longest-palindrome](https://github.com/warrockhali/daily-algorithm/tree/main/0409-longest-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -43,4 +44,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/warrockhali/daily-algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/warrockhali/daily-algorithm/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
