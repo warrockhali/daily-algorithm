@@ -16,6 +16,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/warrockhali/daily-algorithm/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/warrockhali/daily-algorithm/tree/main/0070-climbing-stairs/) | Easy |
+| [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
