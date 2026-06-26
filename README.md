@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/warrockhali/daily-algorithm/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/warrockhali/daily-algorithm/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
