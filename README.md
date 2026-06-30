@@ -57,6 +57,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0001-two-sum](https://github.com/warrockhali/daily-algorithm/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/warrockhali/daily-algorithm/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/warrockhali/daily-algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/warrockhali/daily-algorithm/tree/main/0704-binary-search/) | Easy |
 ## Sorting
@@ -79,5 +80,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/warrockhali/daily-algorithm/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
