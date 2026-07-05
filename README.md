@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0217-contains-duplicate](https://github.com/warrockhali/daily-algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/warrockhali/daily-algorithm/tree/main/0409-longest-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/warrockhali/daily-algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/warrockhali/daily-algorithm/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Greedy
@@ -89,4 +91,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/warrockhali/daily-algorithm/tree/main/0704-binary-search/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
