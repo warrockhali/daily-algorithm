@@ -19,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/warrockhali/daily-algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/warrockhali/daily-algorithm/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/warrockhali/daily-algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
@@ -46,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/warrockhali/daily-algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/warrockhali/daily-algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
