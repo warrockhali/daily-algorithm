@@ -21,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/warrockhali/daily-algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/warrockhali/daily-algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/warrockhali/daily-algorithm/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/warrockhali/daily-algorithm/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
