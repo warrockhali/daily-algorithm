@@ -36,6 +36,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/warrockhali/daily-algorithm/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/warrockhali/daily-algorithm/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/warrockhali/daily-algorithm/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/warrockhali/daily-algorithm/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/warrockhali/daily-algorithm/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/warrockhali/daily-algorithm/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/warrockhali/daily-algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/warrockhali/daily-algorithm/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
