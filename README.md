@@ -22,6 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0020-valid-parentheses](https://github.com/warrockhali/daily-algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/warrockhali/daily-algorithm/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/warrockhali/daily-algorithm/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/warrockhali/daily-algorithm/tree/main/0383-ransom-note/) | Easy |
@@ -37,6 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0009-palindrome-number](https://github.com/warrockhali/daily-algorithm/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/warrockhali/daily-algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/warrockhali/daily-algorithm/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/warrockhali/daily-algorithm/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
@@ -94,6 +96,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -122,4 +125,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/warrockhali/daily-algorithm/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
