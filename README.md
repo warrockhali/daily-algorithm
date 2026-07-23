@@ -39,6 +39,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0013-roman-to-integer](https://github.com/warrockhali/daily-algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/warrockhali/daily-algorithm/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/warrockhali/daily-algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/warrockhali/daily-algorithm/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/warrockhali/daily-algorithm/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/warrockhali/daily-algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/warrockhali/daily-algorithm/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/warrockhali/daily-algorithm/tree/main/0704-binary-search/) | Easy |
