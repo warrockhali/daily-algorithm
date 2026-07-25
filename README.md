@@ -119,6 +119,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/warrockhali/daily-algorithm/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/warrockhali/daily-algorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
