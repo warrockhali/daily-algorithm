@@ -59,14 +59,17 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/warrockhali/daily-algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/warrockhali/daily-algorithm/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/warrockhali/daily-algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/warrockhali/daily-algorithm/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/warrockhali/daily-algorithm/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/warrockhali/daily-algorithm/tree/main/0100-same-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +138,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/warrockhali/daily-algorithm/tree/main/0067-add-binary/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/warrockhali/daily-algorithm/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
