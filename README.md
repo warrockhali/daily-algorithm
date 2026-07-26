@@ -75,6 +75,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/warrockhali/daily-algorithm/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/warrockhali/daily-algorithm/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/warrockhali/daily-algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/warrockhali/daily-algorithm/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -82,6 +83,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/warrockhali/daily-algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/warrockhali/daily-algorithm/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -91,6 +93,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/warrockhali/daily-algorithm/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/warrockhali/daily-algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/warrockhali/daily-algorithm/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/warrockhali/daily-algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/warrockhali/daily-algorithm/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
